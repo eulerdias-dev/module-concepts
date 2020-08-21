@@ -1,11 +1,15 @@
-import Vue from "vue";
-import Vuex from "vuex";
+import Vue from 'vue';
+import Vuex from 'vuex';
 
 Vue.use(Vuex);
 
-export default new Vuex.Store({
-  state: {},
-  mutations: {},
-  actions: {},
-  modules: {}
+export class RootState { }
+
+const store = new Vuex.Store<{}>({
+  modules: {
+  },
 });
+
+Object.assign(window, { $store: store });
+
+export default store;
