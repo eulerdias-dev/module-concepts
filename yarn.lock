@@ -10640,6 +10640,11 @@ vue@^2.6.11:
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.12.tgz#f5ebd4fa6bd2869403e29a896aed4904456c9123"
   integrity sha512-uhmLFETqPPNyuLLbsKz6ioJ4q7AZHzD8ZVFNATNyICSZouqP2Sz0rotWQC8UNBF6VGSCs5abnKJoStA6JbCbfg==
 
+vuetify-dialog@^2.0.9:
+  version "2.0.9"
+  resolved "https://registry.yarnpkg.com/vuetify-dialog/-/vuetify-dialog-2.0.9.tgz#3b15a0deb9cafb803ffe0ca7c2bb5467fb14f329"
+  integrity sha512-OCcCZ9QPKtmvvR2yAZkOzoZC9KVdrhDsU39cKSPJtiV8YlVGM9VLtz6KX5UfdEiQR5fKt0Zej795Dizw8j6arw==
+
 vuetify@^2.2.11:
   version "2.3.9"
   resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-2.3.9.tgz#6dcd1de647e1ce2c7cfaebb7068a0cf8929360b3"
